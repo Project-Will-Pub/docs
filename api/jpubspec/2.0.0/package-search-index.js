@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"l":"xyz.rk0cc.willpub.exceptions.pubspec"},{"l":"xyz.rk0cc.willpub.pubspec"},{"l":"xyz.rk0cc.willpub.pubspec.data"},{"l":"xyz.rk0cc.willpub.pubspec.data.dependencies"},{"l":"xyz.rk0cc.willpub.pubspec.data.dependencies.type"},{"l":"xyz.rk0cc.willpub.pubspec.parser"}];updateSearchResults();
