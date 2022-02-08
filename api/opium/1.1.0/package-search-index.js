@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"l":"xyz.rk0cc.willpub.cmd"},{"l":"xyz.rk0cc.willpub.cmd.annotation"},{"l":"xyz.rk0cc.willpub.cmd.options"},{"l":"xyz.rk0cc.willpub.cmd.subcmd"},{"l":"xyz.rk0cc.willpub.exceptions.cmd"}];updateSearchResults();
